@@ -49,7 +49,7 @@ The application handles common user errors:
 
 ### Main Interface
 
-<img width="1366" height="599" alt="image" src="https://github.com/user-attachments/assets/bb3efc03-434c-4cf2-8cc1-1ec44620d37d" />
+<img width="1366" height="599" alt="image" src="https://github.com/user-attachments/assets/ad964bf7-372c-4a34-8945-512889c030c6" />
 
 
 ### Conversion Result
