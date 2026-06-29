@@ -45,25 +45,25 @@ The application handles common user errors:
 * Displays an error message when the input field is empty.
 * Displays a hint when no conversion option is selected.
 
-## Screenshots
+### Screenshots
 
-### Main Interface
+## Main Interface
 
 <img width="1366" height="599" alt="image" src="https://github.com/user-attachments/assets/ad964bf7-372c-4a34-8945-512889c030c6" />
 
 
-### Conversion Result
+## Conversion Result
 
 <img width="1366" height="605" alt="image" src="https://github.com/user-attachments/assets/a9f816cd-75b0-46f5-80aa-457bb1b94434" />
 
 
-### Error Messages
+## Error Messages
 
-## No Value Entered
+# No Value Entered
 
 <img width="1366" height="601" alt="image" src="https://github.com/user-attachments/assets/83ca9898-975c-4f35-88f1-de4f3ce73ced" />
 
-## No conversion selected
+# No conversion selected
 
 <img width="1366" height="602" alt="image" src="https://github.com/user-attachments/assets/705ac02c-79ab-43d6-ab38-7b26a0c1b579" />
 
