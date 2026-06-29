@@ -45,27 +45,28 @@ The application handles common user errors:
 * Displays an error message when the input field is empty.
 * Displays a hint when no conversion option is selected.
 
+
+
 ### Screenshots
 
 ## Main Interface
 
-<img width="1366" height="599" alt="image" src="https://github.com/user-attachments/assets/ad964bf7-372c-4a34-8945-512889c030c6" />
+<img width="1366" height="597" alt="image" src="https://github.com/user-attachments/assets/113add64-97fd-43b5-a01d-d1121531800f" />
 
 
 ## Conversion Result
 
-<img width="1366" height="605" alt="image" src="https://github.com/user-attachments/assets/a9f816cd-75b0-46f5-80aa-457bb1b94434" />
-
+<img width="1365" height="599" alt="image" src="https://github.com/user-attachments/assets/5ee81121-4c75-442e-9b20-d6cb10739882" />
 
 ## Error Messages
 
 # No Value Entered
 
-<img width="1366" height="601" alt="image" src="https://github.com/user-attachments/assets/83ca9898-975c-4f35-88f1-de4f3ce73ced" />
+<img width="1366" height="599" alt="image" src="https://github.com/user-attachments/assets/2ecc0493-16c6-4fa1-bd53-ba95fb9b276b" />
 
 # No conversion selected
 
-<img width="1366" height="602" alt="image" src="https://github.com/user-attachments/assets/705ac02c-79ab-43d6-ab38-7b26a0c1b579" />
+<img width="1366" height="597" alt="image" src="https://github.com/user-attachments/assets/c377f59b-aaef-4de8-9749-5ef107e2fc50" />
 
 
 ## What I Learned
